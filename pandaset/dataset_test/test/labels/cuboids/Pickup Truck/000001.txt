@@ -1,0 +1,1 @@
+0 94c06b25-d17a-4ee7-a2df-7faa619bee89 Pickup Truck -1.409082844968622 True 1 -46.021 -14.286 -3.145 1.642 4.646 1.74 Parked - -1 nan nan nan

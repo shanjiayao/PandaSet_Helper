@@ -1,0 +1,1 @@
+0 fddd5fac-e8cf-4d5b-92b9-daebf4bfd52c Car -0.7741693728370436 False 4 -16.115 -10.593 0.794 1.836 4.204 1.577 Moving - -1 nan nan nan

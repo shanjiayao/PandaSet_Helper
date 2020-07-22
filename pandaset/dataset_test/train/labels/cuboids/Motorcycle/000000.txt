@@ -1,0 +1,1 @@
+0 64cccea9-d365-4315-ae26-6c337143f967 Motorcycle 0.27687466919423437 True 1 -43.27 -13.711 -2.944 0.898 1.964 1.482 Parked - -1 nan nan Without Rider

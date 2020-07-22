@@ -1,0 +1,1 @@
+0 1357bb23-ce9f-45b4-a5f7-2cde99a15f58 Motorized Scooter 0.24534355093393737 True 0 -2.824 -6.951 0.064 0.944 2.018 1.444 Parked - -1 nan nan Without Rider

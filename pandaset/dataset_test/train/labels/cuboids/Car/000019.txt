@@ -1,0 +1,1 @@
+0 61c886c8-26ae-4fba-80c9-959decbff2ee Car 0.6708146800204418 True 2 20.917 7.334 0.399 1.884 4.162 1.523 Stopped - -1 nan nan nan
